@@ -12,7 +12,7 @@ html, body {
 .rbc-calendar {
     height: 100%;
 }
-
+ 
 /* Modal */
 .ReactModalPortal > div{
     opacity: 0;
